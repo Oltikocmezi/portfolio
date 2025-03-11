@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import profile from "../assets/Profile.png";
+import profile from "../assets/profileRandom-removebg.png";
 import Socials from "../components/Socials";
 // w-full h-screen inset-0 backdrop-blur-2xl
 function Header() {

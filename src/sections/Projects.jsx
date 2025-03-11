@@ -32,8 +32,8 @@ function Projects() {
                   {item.title}
                 </p>
                 <a
+                  href={"https://Oltikocmezi.github.io/TreasureYacht/"}
                   className=" cursor-pointer bg-blue-900 px-2 py-2 text-md font-mono tracking-wider xl:px-4 xl:py-3 rounded-lg border-blue-900 duration-500"
-                  href={item.url}
                 >
                   View Project
                 </a>

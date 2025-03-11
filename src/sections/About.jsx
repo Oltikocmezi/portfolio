@@ -2,7 +2,7 @@ import React from "react";
 import { FaAward } from "react-icons/fa";
 import { FaHandshake } from "react-icons/fa";
 import { FaFolderOpen } from "react-icons/fa";
-import profile from "../assets/Profile.png";
+import profile from "../assets/profileRandom-removebg.png";
 
 const info = [
   {
@@ -32,7 +32,7 @@ function About() {
         </p>
       </div>
       <div className="w-full h-full flex justify-center items-center">
-        <div className="flex justify-center items-center hidden md:block w-1/3 h-full">
+        <div className=" justify-center items-center hidden md:block w-1/3 h-full">
           <img className="w-96 h-96 xl:ml-32" src={profile} alt="img" />
         </div>
         <div className="flex justify-center items-center w-full md:w-1/2 xl:py-28 h-full">
