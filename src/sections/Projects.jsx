@@ -15,25 +15,25 @@ function Projects() {
           WORK
         </p>
       </section>
-      <div className="w-full h-fit xl:h-[80vh] flex flex-wrap justify-evenly items-center">
+      <div className="w-full h-fit xl:pl-6 flex flex-wrap justify-start ">
         {images.map((item, index) => {
           return (
             <div
               key={index}
-              className="w-full md:w-96 xl:w-[30vw] xl:hover:w-[35vw] h-[50vh] hover:h-[55vh] m-2 bg-black/40 hover:bg-transparent/10 flex flex-col justify-center items-center duration-500 rounded-2xl"
+              className="w-full xl:w-[48%] m-2 bg-black/40 hover:bg-transparent/10 flex flex-col justify-center items-center duration-500 rounded-2xl"
             >
               <img
-                className="rounded-xl w-[80%] h-[70%] "
+                className="rounded-2xl w-full h-full p-2"
                 src={item.img}
                 alt="img"
               />
-              <div className=" mt-4 w-full rounded-2xl h-[8vh] text-white flex justify-around items-center">
-                <p className="text-l xl:text-2xl tracking-wider ">
+              <div className="m-2 w-full h-full rounded-2xl text-white flex justify-around items-center">
+                <p className="text-l xl:text-2xl tracking-wider font-mono  ">
                   {item.title}
                 </p>
                 <a
-                  href={"https://Oltikocmezi.github.io/TreasureYacht/"}
-                  className=" cursor-pointer bg-blue-900 px-2 py-2 text-md font-mono tracking-wider xl:px-4 xl:py-3 rounded-lg border-blue-900 duration-500"
+                  href={item.url}
+                  className="text-16 rounded-lg border border-blue-950 bg-sky-800 hover:bg-blue-800 duration-300 px-4 py-2 text-white font-mono shadow-form cursor-pointer "
                 >
                   View Project
                 </a>

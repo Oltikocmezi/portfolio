@@ -51,7 +51,10 @@ function Contact() {
   };
 
   return (
-    <section id="Contact" className="w-full h-full flex flex-col items-center">
+    <section
+      id="Contact"
+      className="w-full h-full flex flex-col mt-6 items-center"
+    >
       <p className="text-xl text-gray-400 font-sans">Get In Touch</p>
       <p className="text-4xl text-blue-400 mt-2 font-medium font-sans">
         Contact Me

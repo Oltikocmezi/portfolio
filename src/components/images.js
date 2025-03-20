@@ -1,5 +1,5 @@
 import image1 from "../assets/TreasureYachPagesImg.png";
-import image2 from "../assets/InsightlinkPagesImg.png";
+import image2 from "../assets/BankingBG.png";
 import image3 from "../assets/pic3.jpg";
 
 const images = [
@@ -10,11 +10,13 @@ const images = [
   },
   {
     img: image2,
-    title: "InsightLink RE",
+    title: "Horizon",
+    url: "https://banking-swart-alpha.vercel.app/",
   },
   {
     img: image3,
     title: "Third Project",
+    url: "/",
   },
 ];
 
