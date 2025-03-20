@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a0245822.css",
-    "main.js": "/portfolio/static/js/main.5102de12.js",
+    "main.css": "/portfolio/static/css/main.cca44811.css",
+    "main.js": "/portfolio/static/js/main.a8793e3e.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/InsightlinkPagesImg.png": "/portfolio/static/media/InsightlinkPagesImg.b9a7f0f5a965a6d09a93.png",
     "static/media/TreasureYachPagesImg.png": "/portfolio/static/media/TreasureYachPagesImg.59ccf241218474be31fe.png",
     "static/media/pic3.jpg": "/portfolio/static/media/pic3.27073d53375695c78b65.jpg",
+    "static/media/BankingBG.png": "/portfolio/static/media/BankingBG.2de188b050e90e440393.png",
     "static/media/profileRandom-removebg.png": "/portfolio/static/media/profileRandom-removebg.bc6ea69103f630a82c1e.png",
     "index.html": "/portfolio/index.html",
-    "main.a0245822.css.map": "/portfolio/static/css/main.a0245822.css.map",
-    "main.5102de12.js.map": "/portfolio/static/js/main.5102de12.js.map",
+    "main.cca44811.css.map": "/portfolio/static/css/main.cca44811.css.map",
+    "main.a8793e3e.js.map": "/portfolio/static/js/main.a8793e3e.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0245822.css",
-    "static/js/main.5102de12.js"
+    "static/css/main.cca44811.css",
+    "static/js/main.a8793e3e.js"
   ]
 }
